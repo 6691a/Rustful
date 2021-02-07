@@ -1,0 +1,9 @@
+Pip install coverage  << test목적
+
+Pip install Django-cors-headers
+
+Yarn add react-router-dom
+
+Yarn add @material-ui/core << UI Style 
+
+Pip install djangorestframework-simplejwt <<JWT Token
